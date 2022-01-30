@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @natisitotaw
-- 👀 I’m interested in ...Game development, deeplearning
+- 👀 I’m interested in ...Game development,
+- 
 - 🌱 I’m currently learning ...unreal engine, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...natistotaw@gmail.com
